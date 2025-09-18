@@ -20,25 +20,14 @@ This project demonstrates an interactive food ordering interface with cart funct
 ## 🖼 Screenshots
 
 
-![page1](Food-Delivery-System/images/fd1.PNG)
+![page1](images/fd1.PNG)
+![page2](images/fd2.PNG)
+![page3](images/fd3.PNG)
+![page4](images/fd4.PNG)
+![page5](images/fd5.PNG)
+![page6](images/fd6.PNG)
+![page7](images/fd7.PNG)
 
-
-![page2](Food-Delivery-System/images/fd2.PNG)
-
-
-![page3](Food-Delivery-System/images/fd3.PNG)
-
-
-![page4](Food-Delivery-System/images/fd4.PNG)
-
-
-![page5](Food-Delivery-System/images/fd5.PNG)
-
-
-![page6](Food-Delivery-System/images/fd6.PNG)
-
-
-![page7](Food-Delivery-System/images/fd7.PNG)
 
 
 ---
